@@ -32,7 +32,7 @@ Gabriela Balderrama-Gutierrez, Ali Mortazavi (Co-chair), Fairlie Reese
 Angela Brooks (Co-chair), Mark Diekhans, Cindy Liang, Chris Vollmers
 
 ### University of Florida
-Ana Conesea (Co-chair)
+Ana Conesa (Co-chair)
 
 ### Weill Cornell Medicine
 Hagen Tilgner
