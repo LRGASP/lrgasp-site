@@ -9,6 +9,8 @@ We are planning to release more information during Summer 2020 and start the off
 
 Please [join](https://groups.google.com/a/ucsc.edu/forum/#!forum/lrgasp-announce-group/join) our mailing list to be informed about the status of the challenge.
 
+[Consortium Organizers](docs/consortium.md)
+
 ## Consortium Organizers
 ### California Institute of Technology
 Brian Williams, Barbara Wold
