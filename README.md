@@ -10,6 +10,9 @@ We are planning to release more information during Summer 2020 and start the off
 Please [join](https://groups.google.com/a/ucsc.edu/forum/#!forum/lrgasp-announce-group/join) our mailing list to be informed about the status of the challenge.
 
 [Consortium Organizers](docs/consortium.md)
+
 [Description of challenges](docs/challenges.md)
+
 [Description of data](docs/data.md)
+
 [Submission instructions](docs/submissions.md)
