@@ -6,7 +6,7 @@ Brian Williams, Barbara Wold
 Andrey Prjibelski
 
 ### Centre for Genomic Regulation
-Silvia Carbonel, Julien Lagarde, Roderic Guigó
+Silvia Carbonell, Julien Lagarde, Roderic Guigó
 
 ### EBI
 Adam Frankish
