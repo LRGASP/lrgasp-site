@@ -9,7 +9,7 @@ Andrey Prjibelski
 Silvia Carbonell, Julien Lagarde, Roderic Guigó
 
 ### EBI
-Adam Frankish
+Adam Frankish, Jane Loveland, Jonathan Mudge
 
 ### Polytechnic University of Valencia
 Francisco José Pardo-Palacios
@@ -18,10 +18,10 @@ Francisco José Pardo-Palacios
 Gabriela Balderrama-Gutierrez, Ali Mortazavi (Co-chair), Fairlie Reese
 
 ### University of California, Santa Cruz
-Angela Brooks (Co-chair), Mark Diekhans, Cindy Liang, Chris Vollmers
+Amit Behera, Angela Brooks (Co-chair), Mark Diekhans, Cindy Liang, Chris Vollmers
 
 ### University of Florida
-Ana Conesa (Co-chair)
+Ana Conesa (Co-chair), Nancy Denslow, David Moraga, Maite de Mulet
 
 ### Weill Cornell Medicine
 Hagen Tilgner
